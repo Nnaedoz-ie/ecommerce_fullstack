@@ -23,3 +23,4 @@ app.listen(5000, () => {
   console.log(`server running on port http://localhost:${port}`);
   connectDB();
 });
+// basic debugging
